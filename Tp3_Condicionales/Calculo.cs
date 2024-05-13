@@ -89,7 +89,7 @@ namespace Tp3_Condicionales
         }
         public void diasSemana()
         {
-            List<string> dias = new List<string>() { "Lunes", "Martes", "Miercoles", "Jueves", "Viernes" };
+            List<string> dias = new List<string>() { "Lunes", "Martes", "Miercoles", "Jueves", "Viernes","Sabado","Domingo" };
             int num;
             string op;
 
